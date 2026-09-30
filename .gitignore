@@ -1,0 +1,21 @@
+# Entorno virtual y temporales de Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Base de datos SQLite creada en ejecución
+*.db
+gic_database.db
+
+# Registros de actividad y logs
+*.log
+gic_sistema.log
+
+# Archivos exportados dinámicamente
+clientes.json
+clientes.csv
+
+# Archivos de configuración del IDE (VS Code)
+.vscode/
+.idea/
